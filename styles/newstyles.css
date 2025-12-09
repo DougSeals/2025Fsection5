@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(74, 194, 224);
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h2{
+    font: 50;
+    text-align: center;
+    color: rgb(0, 0, 144);
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font: 20;
+}
+
+h3{
+    color: rgb(189, 32, 32);
+    font-family: 'Courier New', Courier, monospace;
+}
